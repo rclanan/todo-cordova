@@ -1,0 +1,27 @@
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
+
+.margin {
+  margin-left: 9px;
+  margin-right: 9px;
+}
+.icon-actions {
+  font-size: 23px;
+}
+.checkbox {
+  vertical-align: middle;
+}
+
+.location {
+  float: left;
+}
+
+.actions {
+  float: right;
+}
+.item-text-wrap {
+  overflow: auto;
+}
+.ion-checkmark-circled.icon-actions.margin
+{
+  margin-right: 35px;
+}

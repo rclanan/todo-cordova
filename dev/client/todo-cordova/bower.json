@@ -1,0 +1,13 @@
+{
+  "name": "todo-cordova",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-beta.14",
+    "lodash": "~3.3.0",
+    "angular-cache": "~3.2.5",
+    "angular-google-maps": "~2.0.12",
+    "showdown": "~0.3.4",
+    "angular-bootstrap": "~0.12.1",
+    "bootstrap": "~3.3.2"
+  }
+}
